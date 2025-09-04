@@ -845,7 +845,7 @@ a:hover, a:focus {
 
 .body-2 {
   font-size: 18px;
-  line-height: 30px;
+  line-height: 26px;
 }
 
 .caption-1 {
@@ -10540,7 +10540,7 @@ a.mapboxgl-ctrl-logo {
 .wg-year .counter-item .text {
   color: var(--white);
   margin-top: 20px;
-  letter-spacing: 3.5px;
+  letter-spacing: 2px;
 }
 .wg-year.style-2 {
   background-color: var(--yelow);
@@ -16490,9 +16490,10 @@ a.mapboxgl-ctrl-logo {
 .heading-section .sub-title {
   color: var(--color-text-3);
   position: relative;
-  padding-left: 22px;
+  padding-left: 16px;
   letter-spacing: 3.3px;
   display: inline-block;
+  font-size: 10px;
 }
 .heading-section .sub-title::before {
   content: "";
@@ -16505,7 +16506,7 @@ a.mapboxgl-ctrl-logo {
   height: 8px;
 }
 .heading-section .sub-title.style-2 {
-  padding-right: 22px;
+  padding-right: 16px;
 }
 .heading-section .sub-title.style-2::after {
   content: "";
@@ -21801,7 +21802,7 @@ a.mapboxgl-ctrl-logo {
     display: none !important;
   }
   .header .header-content {
-    padding: 10px 15px !important;
+    padding: 10px 20px !important;
   }
   .header .logo-header img {
     max-width: 120px !important;
@@ -23975,7 +23976,7 @@ a.mapboxgl-ctrl-logo {
   }
   .section-3.p-careers .section-3-inner .right {
     max-width: 100%;
-    padding: 70px 15px;
+    padding: 35px 15px;
   }
   .section-benefits .box-item {
     padding-left: 15px !important;
